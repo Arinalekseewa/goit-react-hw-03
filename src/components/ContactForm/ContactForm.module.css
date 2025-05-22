@@ -1,0 +1,22 @@
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    padding: 20px 40px;
+    width: 302px;
+}
+
+.contact-label {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-input {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 6px;
+    background-color: transparent;
+    height: 20px;
+    padding: 4px 8px;
+}
